@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             counter++
             textHello.text = "Clicked $counter times"
-            button.text = "Тапай хомяка"
+            button.text = "Тапай хомяка!!!!!"
         }
     }
 
